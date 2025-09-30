@@ -1,0 +1,10 @@
+{
+  "name": "MarkBuyIcons",
+  "description": "Icon collection for MarkBuy",
+  "icons": [
+    {
+      "name": "Knowledge-Planet",
+      "url": "https://raw.githubusercontent.com/Alex-hj/MarkBuyIcons/master/icons/Knowledge-Planet.png"
+    }
+  ]
+}
