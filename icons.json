@@ -3,12 +3,20 @@
   "description": "Icon collection for MarkBuy",
   "icons": [
     {
+      "name": "AppCleaner-icon",
+      "url": "https://raw.githubusercontent.com/Alex-hj/MarkBuyIcons/master/icons/AppCleaner-icon.png"
+    },
+    {
+      "name": "cursor",
+      "url": "https://raw.githubusercontent.com/Alex-hj/MarkBuyIcons/master/icons/cursor.png"
+    },
+    {
       "name": "Knowledge-Planet",
       "url": "https://raw.githubusercontent.com/Alex-hj/MarkBuyIcons/master/icons/Knowledge-Planet.png"
     },
     {
-      "name": "Naiyou",
-      "url": "https://raw.githubusercontent.com/Alex-hj/MarkBuyIcons/master/icons/Naiyou.png"
+      "name": "Transmit",
+      "url": "https://raw.githubusercontent.com/Alex-hj/MarkBuyIcons/master/icons/Transmit.png"
     }
   ]
 }
