@@ -1,0 +1,40 @@
+# =================================================================
+# .gitignore for MarkBuyIcons project
+# =================================================================
+
+# ---------------------------------
+# Node.js
+# 忽略 Node.js 依赖包目录和日志文件。
+# 虽然我们目前没装依赖，但这是个好习惯。
+/node_modules
+npm-debug.log*
+yarn-error.log
+yarn.lock
+pnpm-lock.yaml
+
+# ---------------------------------
+# Operating System files
+# 忽略 macOS, Windows, 和 Linux 系统自动生成的文件。
+.DS_Store
+Thumbs.db
+._*
+.Spotlight-V100
+.Trashes
+
+# ---------------------------------
+# IDE & editor directories
+# 忽略常用代码编辑器的配置文件。
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ---------------------------------
+# Log files
+# 忽略通用的日志文件。
+*.log
+
+# ---------------------------------
+# Temporary files
+# 忽略常见的临时文件目录
+tmp/
