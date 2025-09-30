@@ -8,6 +8,10 @@ on:
     branches:
       - master  # 如果你的主分支是 master，请改成 master
 
+# 设置 GITHUB_TOKEN 的权限
+permissions:
+  contents: write  # 允许写入仓库内容（提交和推送）
+
 jobs:
   build:
     runs-on: ubuntu-latest # 使用最新的 Ubuntu 虚拟机环境
