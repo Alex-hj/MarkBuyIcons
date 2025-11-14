@@ -15,6 +15,10 @@
       "url": "https://raw.githubusercontent.com/Alex-hj/MarkBuyIcons/master/icons/DaisyDisk.png"
     },
     {
+      "name": "downie_4",
+      "url": "https://raw.githubusercontent.com/Alex-hj/MarkBuyIcons/master/icons/downie_4.png"
+    },
+    {
       "name": "Dropover",
       "url": "https://raw.githubusercontent.com/Alex-hj/MarkBuyIcons/master/icons/Dropover.png"
     },
@@ -31,8 +35,16 @@
       "url": "https://raw.githubusercontent.com/Alex-hj/MarkBuyIcons/master/icons/OpenAI.png"
     },
     {
+      "name": "permute_3",
+      "url": "https://raw.githubusercontent.com/Alex-hj/MarkBuyIcons/master/icons/permute_3.png"
+    },
+    {
       "name": "Transmit",
       "url": "https://raw.githubusercontent.com/Alex-hj/MarkBuyIcons/master/icons/Transmit.png"
+    },
+    {
+      "name": "typora",
+      "url": "https://raw.githubusercontent.com/Alex-hj/MarkBuyIcons/master/icons/typora.png"
     }
   ]
 }
